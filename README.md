@@ -2,7 +2,7 @@
 
 ## Hello there !¡!👋
 
-I'm **Rohak**. I'm a disabled **Backend Developer** from 📍 _Mumbai, India_.\
+I'm **Rohak**. I'm a **Software Developer** from 📍 _Mumbai, India_.\
 I Love experimenting with new technologies and tools! 🛠️\
 Cybersecurity Enthusiast. 🔐
 
