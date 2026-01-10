@@ -51,7 +51,7 @@ Cybersecurity Enthusiast. 🔐
 
 ## 🌱 I’m currently working on:
 
-  - [ ] __AWS Certified Cloud Practitioner__ - Certification Preparation
+  - [x] __AWS Certified Cloud Practitioner__ - Certification Preparation
   - [ ] __The Complete Cyber Security Course Vol. 4 : End Point Protection__ - Udemy Course
   - [ ] __CompTIA Network Plus: N10-009__ - Certification Preparation
 
