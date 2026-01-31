@@ -2,9 +2,11 @@
 
 ## Hello there !¡!👋
 
-I'm **Rohak**. I'm a **Software Developer** from 📍 _Mumbai, India_.\
-I Love experimenting with new technologies and tools! 🛠️\
-Cybersecurity Enthusiast. 🔐
+I'm **Rohak**. I'm a **Software Developer** from  _Mumbai, India_.\
+I Love experimenting with new technologies and tools! \
+Previously was a Performance and Site Reliability Engineer. \
+Currently, a Backend Engineer. \
+Cybersecurity Practitioner. 
 
 ---
 
@@ -52,21 +54,5 @@ Cybersecurity Enthusiast. 🔐
 ## 🌱 I’m currently working on:
 
   - [x] __AWS Certified Cloud Practitioner__ - Certification Preparation
+  - [ ] __CompTIA Security Plus: N10-009__ - Certification Preparation
   - [ ] __The Complete Cyber Security Course Vol. 4 : End Point Protection__ - Udemy Course
-  - [ ] __CompTIA Network Plus: N10-009__ - Certification Preparation
-
----
-<!--
-**Rohak-Git-Gud/Rohak-Git-Gud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
