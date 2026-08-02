@@ -2,10 +2,17 @@
 
 ## Hello there !¡!
 
-I'm **Rohak**. I'm a **Software Developer** from  _Mumbai, India_.\
-I Love experimenting with new technologies and tools! \
-Previously, I was a **Performance** and *Site Reliability* Engineer. \
-Currently, I'm a **Backend** and *Cybersecurity* Engineer. 
+I'm **Rohak**, a **Backend**, **Performance** and **Site Reliability Engineer** from _Mumbai, India_, \
+with a growing focus on **Application Security**.
+
+I love experimenting with technologies and depth varies by tool. It's a feature, not a bug because, \
+I believe security people who only ever touch one layer, rarely understand the whole attack surface.
+
+I write about backend systems, security or an occasional opinion piece that has nothing to do with either. \
+[Wanna read what I write?](https://dev.to/rohak-dev)
+
+If you want know more about me from a nicer UI: \
+[Visit my Website.](https://rohak-dev.vercel.app)
 
 ---
 
@@ -27,8 +34,8 @@ I'm not good at **everything**.
   ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![ASP .NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  - __Web Development:__ \
+  ![ASP .NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  - __Frontend:__ \
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -58,5 +65,5 @@ I'm not good at **everything**.
 ## I’m currently working on:
 
   - [x] __AWS Certified Cloud Practitioner__ - Certification Preparation
-  - [ ] __CompTIA Security Plus: N10-009__ - Certification Preparation
+  - [ ] __CompTIA Security Plus: SY0-701__ - Certification Preparation
   - [ ] __The Complete Cyber Security Course Vol. 4 : End Point Protection__ - Udemy Course
