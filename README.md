@@ -5,8 +5,8 @@
 I'm **Rohak**, a **Backend**, **Performance** and **Site Reliability Engineer** from _Mumbai, India_, \
 with a growing focus on **Application Security**.
 
-I love experimenting with technologies and depth varies by tool. It's a feature, not a bug because, \
-I believe security people who only ever touch one layer, rarely understand the whole attack surface.
+I love experimenting with technologies and my depth and knowledge varies depending on the tool. It's a feature, not a bug because, \
+I believe folks in security who only ever touch one layer, rarely understand the whole attack surface.
 
 I write about backend systems, security or an occasional opinion piece that has nothing to do with either. \
 [Wanna read what I write?](https://dev.to/rohak-dev)
